@@ -12,6 +12,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <>
+      
         <Head>
         <title>Zohair Faruqi's Portfolio</title>
         <meta name="description" content="Joel's Portfolio" />
